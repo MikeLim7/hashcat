@@ -1,2 +1,2 @@
 # hashcat
-Hashcat benchmark
+Hashcat benchmark results
