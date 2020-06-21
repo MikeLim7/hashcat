@@ -1,5 +1,6 @@
 
 GPU: Intel® HD Graphics 530 on Intel i7-6700K
+
 OS: Windows 10 x64 v2004
 
 
@@ -133,4 +134,6 @@ Hashmode: 11300 - Bitcoin/Litecoin wallet.dat (Iterations: 200459)
 Speed.#3.........:      211 H/s (49.47ms) @ Accel:256 Loops:1024 Thr:1 Vec:4
 
 Started: Sun Jun 21 07:56:51 2020
-                                  Stopped: Sun Jun 21 08:02:11 2020
+
+                                  
+Stopped: Sun Jun 21 08:02:11 2020
